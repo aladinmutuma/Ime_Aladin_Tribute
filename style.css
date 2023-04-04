@@ -1,0 +1,30 @@
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  #tribute-info {
+    display: flex;
+    justify-content: justify;
+  }
+
+  body { 
+    margin: 0;
+  }
+
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+
+  p{
+    text-align: center;
+  }
